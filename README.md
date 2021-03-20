@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/Mattypoly/Mattypoly.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+My interest with IT started at a young age. I grew up at a time when information technology was becoming more central to everyday life and effectively changed our lifestyle. When I started school every student had to use the computer room for online tasks and towards to end of my schooling, every student had a laptop as part of their education. We used to rent movies from a store, now we can instantly stream movies from the comfort of our home (RIP BlockBuster). The introduction of the IPhone and the creation of facebook allowed us to connect and communicate with people all around the world.  I was intrigued by the power of Information technology and how it was shaping our future.
+
+
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
